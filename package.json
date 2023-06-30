@@ -1,0 +1,36 @@
+{
+  "name": "hype-man",
+  "version": "1.0.0",
+  "description": "A discord bot named hype-man",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/king525dev/Discord-Bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "motivation",
+    "hype",
+    "quote",
+    "AI",
+    "discord-bot"
+  ],
+  "author": "king525dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/king525dev/Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/king525dev/Discord-Bot#readme",
+  "dependencies": {
+    "@replit/database": "^2.0.4",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.1"
+  }
+}
